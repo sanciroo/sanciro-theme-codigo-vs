@@ -1,0 +1,31 @@
+{
+  "name": "sancirotheme",
+  "displayName": "sancirotheme",
+  "description": "chupala",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "sancirocodigo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sancirocodigo-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/Logo_Sanciro_128x128.jpg",
+  "author": {
+    "name" : "Santiago Saucedo",
+    "email": "santysaumen@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/sanciroo/sanciro-theme-codigo-vs.git",
+    "type": "git"
+  },
+  "publisher": "SantiagoSaucedoMendoza"
+}
